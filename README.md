@@ -11,4 +11,4 @@ My Python Learning Process:
 7-function
 8-modules = random,time,os ; What I learned in current modules
 
-Yes, this is what I have learned in Python for now. As I learn more, I will write it here. If anyone reads this, I would like to thank you.Btw ı little learning Kali Linuxç.
+Yes, this is what I have learned in Python for now. As I learn more, I will write it here. If anyone reads this, I would like to thank you.Btw ı little learning Kali Linux.
